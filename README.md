@@ -19,6 +19,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=this-is-aishwarya&show_icons=true&locale=en&layout=compact" alt="this-is-aishwarya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=this-is-aishwarya&show_icons=true&locale=en" alt="this-is-aishwarya" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=this-is-aishwarya&show_icons=true&locale=en" alt="this-is-aishwarya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=this-is-aishwarya&" alt="this-is-aishwarya" /></p>
+
+### Holopin Board
+[![@aishwaryasuresh's Holopin board](https://holopin.me/aishwaryasuresh)](https://holopin.io/@aishwaryasuresh)
