@@ -29,5 +29,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=this-is-aishwarya&" alt="this-is-aishwarya" /></p>
 
-<h3 align="left">Holopin Badges:</h3>
+### Holopin Badges:
+
 [![@aishwaryasuresh's Holopin board](https://holopin.me/aishwaryasuresh)](https://holopin.io/@aishwaryasuresh)
